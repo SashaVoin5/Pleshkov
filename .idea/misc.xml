@@ -4,8 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/activity_main.xml" value="0.35280797101449274" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/activity_newfilm.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/activity_newtheatre.xml" value="0.15489130434782608" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/activity_theatre.xml" value="0.1398148148148148" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/adapter.xml" value="0.48663101604278075" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/adapter2.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/adapter3.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/layout/adapter4.xml" value="0.15579710144927536" />
         <entry key="..\:/Users/Admin/AndroidStudioProjects/Pleshkov/app/src/main/res/menu/menu.xml" value="0.1398148148148148" />
       </map>
     </option>

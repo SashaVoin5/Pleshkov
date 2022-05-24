@@ -13,8 +13,18 @@
         android:theme="@style/Theme.Pleshkov"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".newfilm"
+            android:exported="false" />
+        <activity
+            android:name=".newtheatre"
+            android:exported="false" />
+        <activity
+            android:name=".films"
+            android:exported="false" />
+        <activity
             android:name=".theatre"
             android:exported="false" />
+
         <meta-data
             android:name="android.support.PARENT_ACTIVITY"
             android:value=".MainActivity" />
